@@ -20,7 +20,11 @@ PyLyrics
 hurry.filesize
 #translator
 googletrans
-
+Pafy
+Youtube-dl
+Youtube_dl
+Google
+PickleDB
 tldextract
 PyYAML
 pyowm
